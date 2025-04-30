@@ -15,7 +15,9 @@ This solution was developed as part of an academic research project and has been
 
 [https://github.com/user-attachments/assets/770698ba-6ff8-4495-b709-128080a5c0e9](https://www.youtube.com/watch?v=--dhq1QuDEk)
 
-
+## 📷 Screenshot -
+![image](https://github.com/user-attachments/assets/335f7b6d-a03d-4b3a-8fb5-af0f740a9a80)
+![image](https://github.com/user-attachments/assets/881ad16c-3ca2-4101-97cb-d4ab8b91bbf3)
 
 ## 🧠 Key Features
 
