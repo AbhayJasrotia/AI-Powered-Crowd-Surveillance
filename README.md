@@ -88,6 +88,6 @@ This system **does not store personal or facial data**, ensuring compliance with
 
 ## 👨‍💻 Author
 
-**Abhay [Your Full Name]**  
-B.Tech Computer Science – [Your University Name]  
-Researcher | Backend Developer | Computer Vision Enthusiast  
+**Abhay Jasrotia**  
+B.Tech Computer Science – Chandigarh University.  
+Researcher | AI/ML | Softerware Tester | QA Automation   
