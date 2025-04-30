@@ -9,6 +9,14 @@ This project implements a real-time **Crowd Detection and Tracking System** usin
 
 This solution was developed as part of an academic research project and has been **peer-reviewed and accepted for publication in a Springer Scopus-indexed journal**.
 
+## ▶️ Output Video -
+
+
+
+https://github.com/user-attachments/assets/770698ba-6ff8-4495-b709-128080a5c0e9
+
+
+
 ## 🧠 Key Features
 
 - 👁️‍🗨️ Real-time object detection with **YOLOv8**
@@ -45,19 +53,7 @@ This solution was developed as part of an academic research project and has been
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 - OpenCV (`opencv-python`)
 - NumPy
-- SORT implementation (`filterpy`, `skimage`)
-
-Install requirements using:
-
-```bash
-pip install -r requirements.txt
-```
-
-## ▶️ How to Run
-
-```bash
-python crowd_tracker.py
-```
+- SORT implementation (`filterpy`, `skimage`) 
 
 Make sure your input video (`video.mp4`) is in the same directory. The output will be saved as `tracked_output.mp4`. To quit live display, press `q`.
 
