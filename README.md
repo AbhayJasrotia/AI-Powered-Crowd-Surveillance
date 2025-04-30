@@ -73,7 +73,7 @@ This project was supported by in-depth research and experimentation and has been
 - Real-time tracking under resource constraints
 - Ethical considerations in crowd monitoring
 
-_Acceptance proof and paper link can be provided upon request or publication._
+_Acceptance proof_
 
 ## ⚠️ Ethical Note
 
