@@ -9,6 +9,10 @@ This project implements a real-time **Crowd Detection and Tracking System** usin
 
 This solution was developed as part of an academic research project and has been **peer-reviewed and accepted for publication in a Springer Scopus-indexed journal**.
 
+## Certification -
+<img width="550" height="480" alt="image" src="https://github.com/user-attachments/assets/5f7831b9-76fa-48f4-b251-2d0be3123d93" />
+
+
 ## ▶️ Output Video -
 
 
